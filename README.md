@@ -28,9 +28,7 @@ This project serves as a modular foundation for building a more advanced, multim
 │── README.md
 
 -INSTALLATION
---Clone the repository
-git clone https://github.com/Arc12345/FRIDAY.git
-cd FRIDAY
+--python 3.11
 
 --Create a virtual environment
 python -m venv venv
