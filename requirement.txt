@@ -1,6 +1,12 @@
-dotenv
-pillow
-openai
+groq
 elevenlabs
-pyaudio
-langchain_community
+Pillow
+requests
+python-dotenv
+langchain-community
+duckduckgo-search
+pandas 
+numpy
+matplotlib
+seaborn
+json
