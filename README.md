@@ -1,4 +1,4 @@
-# 🤖 FRIDAY - Personal AI Assistant
+#  FRIDAY - Personal AI Assistant
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ This project serves as a modular foundation for building a more advanced multimo
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🎙️ Real-time Voice Interaction using ElevenLabs
 - 🌐 Web Search using DuckDuckGo
@@ -218,7 +218,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Arijit Roy**  
+**Arijit Roy Chowdhury**  
 | AI Enthusiast | Data Analytics | 
 
 
